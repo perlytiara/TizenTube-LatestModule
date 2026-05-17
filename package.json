@@ -1,0 +1,25 @@
+{
+  "name": "@perlytiara/tizentube-latest-module",
+  "appName": "TizenTube",
+  "version": "1.14.2",
+  "description": "Latest-build TizenTube module package for TizenBrew.",
+  "packageType": "mods",
+  "websiteURL": "https://youtube.com/tv?additionalDataUrl=http%3A%2F%2Flocalhost%3A8085%2Fdial%2Fapps%2FYouTube",
+  "main": "dist/userScript.js",
+  "serviceFile": "dist/service.js",
+  "keys": [
+    "MediaPlayPause",
+    "MediaPlay",
+    "MediaPause",
+    "MediaStop",
+    "MediaFastForward",
+    "MediaRewind",
+    "MediaTrackNext",
+    "MediaTrackPrevious"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perlytiara/TizenTube-LatestModule.git"
+  },
+  "license": "GPL-3.0-only"
+}
