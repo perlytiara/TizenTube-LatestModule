@@ -1,7 +1,7 @@
 {
   "name": "@perlytiara/tizentube-latest-module",
   "appName": "TizenTube",
-  "version": "1.14.7",
+  "version": "1.14.8",
   "description": "Latest-build TizenTube module package for TizenBrew.",
   "packageType": "mods",
   "websiteURL": "https://youtube.com/tv?additionalDataUrl=http%3A%2F%2Flocalhost%3A8085%2Fdial%2Fapps%2FYouTube",
